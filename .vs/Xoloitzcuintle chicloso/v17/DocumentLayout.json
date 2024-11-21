@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanv\\OneDrive\\Escritorio\\UnRar\\Xoloitzcuintle chicloso\\Xoloitzcuintle chicloso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC95E96-D404-2918-38C2-C1728FDA06E0}|Assembly-CSharp.csproj|c:\\users\\juanv\\onedrive\\escritorio\\unrar\\xoloitzcuintle chicloso\\xoloitzcuintle chicloso\\assets\\scripts\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC95E96-D404-2918-38C2-C1728FDA06E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC95E96-D404-2918-38C2-C1728FDA06E0}|Assembly-CSharp.csproj|c:\\users\\juanv\\onedrive\\escritorio\\unrar\\xoloitzcuintle chicloso\\xoloitzcuintle chicloso\\assets\\scripts\\pausa\\codigo_pausa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC95E96-D404-2918-38C2-C1728FDA06E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausa\\codigo_pausa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC95E96-D404-2918-38C2-C1728FDA06E0}|Assembly-CSharp.csproj|c:\\users\\juanv\\onedrive\\escritorio\\unrar\\xoloitzcuintle chicloso\\xoloitzcuintle chicloso\\assets\\scripts\\playerdeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC95E96-D404-2918-38C2-C1728FDA06E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerdeath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BC95E96-D404-2918-38C2-C1728FDA06E0}|Assembly-CSharp.csproj|C:\\Users\\juanv\\OneDrive\\Escritorio\\UnRar\\Xoloitzcuintle chicloso\\Xoloitzcuintle chicloso\\assets\\scripts\\menu\\script_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BC95E96-D404-2918-38C2-C1728FDA06E0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\script_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerDeath.cs",
+              "DocumentMoniker": "C:\\Users\\juanv\\OneDrive\\Escritorio\\UnRar\\Xoloitzcuintle chicloso\\Xoloitzcuintle chicloso\\Assets\\Scripts\\PlayerDeath.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerDeath.cs",
+              "ToolTip": "C:\\Users\\juanv\\OneDrive\\Escritorio\\UnRar\\Xoloitzcuintle chicloso\\Xoloitzcuintle chicloso\\Assets\\Scripts\\PlayerDeath.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerDeath.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:08:51.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameOver.cs",
+              "DocumentMoniker": "C:\\Users\\juanv\\OneDrive\\Escritorio\\UnRar\\Xoloitzcuintle chicloso\\Xoloitzcuintle chicloso\\Assets\\Scripts\\GameOver.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameOver.cs",
+              "ToolTip": "C:\\Users\\juanv\\OneDrive\\Escritorio\\UnRar\\Xoloitzcuintle chicloso\\Xoloitzcuintle chicloso\\Assets\\Scripts\\GameOver.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameOver.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvxMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T17:00:44.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Script_Menu.cs",
+              "DocumentMoniker": "C:\\Users\\juanv\\OneDrive\\Escritorio\\UnRar\\Xoloitzcuintle chicloso\\Xoloitzcuintle chicloso\\Assets\\Scripts\\Menu\\Script_Menu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu\\Script_Menu.cs",
+              "ToolTip": "C:\\Users\\juanv\\OneDrive\\Escritorio\\UnRar\\Xoloitzcuintle chicloso\\Xoloitzcuintle chicloso\\Assets\\Scripts\\Menu\\Script_Menu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu\\Script_Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:39:07.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Codigo_Pausa.cs",
+              "DocumentMoniker": "C:\\Users\\juanv\\OneDrive\\Escritorio\\UnRar\\Xoloitzcuintle chicloso\\Xoloitzcuintle chicloso\\Assets\\Scripts\\Pausa\\Codigo_Pausa.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Pausa\\Codigo_Pausa.cs",
+              "ToolTip": "C:\\Users\\juanv\\OneDrive\\Escritorio\\UnRar\\Xoloitzcuintle chicloso\\Xoloitzcuintle chicloso\\Assets\\Scripts\\Pausa\\Codigo_Pausa.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Pausa\\Codigo_Pausa.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T21:11:59.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
