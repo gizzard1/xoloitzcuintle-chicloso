@@ -358,6 +358,7 @@
 "Assets/Scripts/Menu/Script_Menu.cs"
 "Assets/Scripts/NextLevel.cs"
 "Assets/Scripts/OpenDoor.cs"
+"Assets/Scripts/OpenDoorLevel2.cs"
 "Assets/Scripts/Pausa/Codigo_Pausa.cs"
 "Assets/Scripts/PlayerDeath.cs"
 "Assets/Scripts/PlayerMovement.cs"

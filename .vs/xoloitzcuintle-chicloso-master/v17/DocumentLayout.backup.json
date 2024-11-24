@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Downloads\\xoloitzcuintle-chicloso-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA23BF55-A972-82BA-BEB4-1FDDE30ACAB8}|Assembly-CSharp.csproj|c:\\users\\usuario\\downloads\\xoloitzcuintle-chicloso-master\\assets\\scripts\\opendoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA23BF55-A972-82BA-BEB4-1FDDE30ACAB8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\opendoor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpenDoor.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\xoloitzcuintle-chicloso-master\\Assets\\Scripts\\OpenDoor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OpenDoor.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\xoloitzcuintle-chicloso-master\\Assets\\Scripts\\OpenDoor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OpenDoor.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T05:43:49.574Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
