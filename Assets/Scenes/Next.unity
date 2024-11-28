@@ -601,24 +601,12 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1106209113}
-        m_TargetAssemblyTypeName: GameOver, Assembly-CSharp
+        m_TargetAssemblyTypeName: Next, Assembly-CSharp
         m_MethodName: IrAlMenu
         m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: Menu Principal
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: GameOver, Assembly-CSharp
-        m_MethodName: 
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -777,10 +765,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1106209108}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 068b242b8c6397542a9979b1e757fa35, type: 3}
+  m_Script: {fileID: 11500000, guid: f990c86bf53d6f941a14575377c03f7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nombreEscenaInicio: Inicio
+  nombreEscena2: 2
   nombreEscenaMenuPrincipal: Menu principal
 --- !u!1 &1300491434
 GameObject:
@@ -1202,8 +1190,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1106209113}
-        m_TargetAssemblyTypeName: GameOver, Assembly-CSharp
-        m_MethodName: ReiniciarJuego
+        m_TargetAssemblyTypeName: Next, Assembly-CSharp
+        m_MethodName: NextLevel
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
